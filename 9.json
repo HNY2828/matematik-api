@@ -12,7 +12,7 @@
     "topic": "Üçgende Alan"
   },
   {
-    "question": "Alanı 30 cm² olan bir üçgende yükseklik 5 cm ise tabanı kaç cm'dir?",
+    "question": "Alanı 30 cm² olan bir üçgende yükseklik 5 cm ise tabanı kaçtır?",
     "correct_answer": "12",
     "incorrect_answers": ["6", "8", "15"],
     "topic": "Üçgende Alan"
@@ -25,14 +25,14 @@
   },
   {
     "question": "Açıortay hangi noktada kesişir?",
-    "correct_answer": "Teğet merkezinde",
-    "incorrect_answers": ["Ağırlık merkezinde", "Orta noktada", "Dış merkezde"],
+    "correct_answer": "Teğet merkezi",
+    "incorrect_answers": ["Ağırlık merkezi", "Orta noktada", "Dış merkez"],
     "topic": "Açıortay"
   },
   {
     "question": "Bir üçgende kenarortuların kesişim noktası neresidir?",
     "correct_answer": "Ağırlık merkezi",
-    "incorrect_answers": ["Orta dikme", "Açıortay", "İnce açı"],
+    "incorrect_answers": ["Orta dikme", "Açıortay", "Teğet merkezi"],
     "topic": "Kenarortay"
   },
   {
@@ -82,5 +82,216 @@
     "correct_answer": "0",
     "incorrect_answers": ["1", "1/2", "√3/2"],
     "topic": "Trigonometri"
+  },
+  {
+    "question": "Bir üçgende yükseklik hangi şekle diktir?",
+    "correct_answer": "Tabana",
+    "incorrect_answers": ["Kenarortaya", "Açıortaya", "Hipotenüse"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Dik üçgende alan nasıl hesaplanır?",
+    "correct_answer": "(a×b)/2",
+    "incorrect_answers": ["a×b", "(a+b)/2", "a²+b²"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Açıortay üçgenin neresinden geçer?",
+    "correct_answer": "Açıdan",
+    "incorrect_answers": ["Tabandan", "Orta noktadan", "Ağırlık merkezinden"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Bir üçgende en uzun kenar hangi açının karşısındadır?",
+    "correct_answer": "En büyük açı",
+    "incorrect_answers": ["En küçük açı", "Ortanca açı", "Herhangi bir açı"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Dik üçgende hipotenüs nedir?",
+    "correct_answer": "En uzun kenar",
+    "incorrect_answers": ["En kısa kenar", "Orta kenar", "Dik kenar"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Sin 90° kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["0", "1/2", "√3/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Cos 0° kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["0", "1/2", "√3/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Bir üçgende iki kenar biliniyorsa üçüncü kenarın bulunması hangi bağıntıyla olur?",
+    "correct_answer": "Üçgen eşitsizliği",
+    "incorrect_answers": ["Pisagor", "Açıortay bağıntısı", "Benzerlik"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Pisagor teoremi hangi üçgen için geçerlidir?",
+    "correct_answer": "Dik üçgen",
+    "incorrect_answers": ["Eşkenar", "İkizkenar", "Çeşitkenar"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Tan 30° kaçtır?",
+    "correct_answer": "1/√3",
+    "incorrect_answers": ["1", "√3", "1/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Cos 45° kaçtır?",
+    "correct_answer": "√2/2",
+    "incorrect_answers": ["1/2", "1", "√3/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "En küçük açı karşısındaki kenar nasıldır?",
+    "correct_answer": "En kısa",
+    "incorrect_answers": ["En uzun", "Eşit", "Orta"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Bir üçgende dış açı komşu iç açı toplamı kaçtır?",
+    "correct_answer": "180°",
+    "incorrect_answers": ["90°", "120°", "360°"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Bir üçgende dış açı neye eşittir?",
+    "correct_answer": "Karşı iki iç açının toplamı",
+    "incorrect_answers": ["Karşı iç açı", "En büyük açı", "Bir iç açı"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Açıortay uzunluğu nereye kadar uzanır?",
+    "correct_answer": "Karşı kenara",
+    "incorrect_answers": ["Ağırlık merkezine", "Hipotenüse", "Dış merkeze"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Üçgende kenarortuların uzunlukları toplamı nasıl olur?",
+    "correct_answer": "Kenar toplamından küçüktür",
+    "incorrect_answers": ["Kenar toplamına eşittir", "Büyüktür", "Sonsuz"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Sin, Cos, Tan neyin oranıdır?",
+    "correct_answer": "Kenar oranı",
+    "incorrect_answers": ["Alan", "Açı", "Merkez"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Trigonometri hangi üçgende temel alınır?",
+    "correct_answer": "Dik üçgen",
+    "incorrect_answers": ["Eşkenar", "Çeşitkenar", "İkizkenar"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Bir üçgende alan artması için ne yapılmalıdır?",
+    "correct_answer": "Taban veya yükseklik artırılır",
+    "incorrect_answers": ["Kenarortular artırılır", "Açıortaylar değişir", "Merkez kayar"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Kenarortuların kesiştiği nokta üçgeni kaça böler?",
+    "correct_answer": "6 eş parçaya",
+    "incorrect_answers": ["2", "3", "4"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Açıortay üçgeni kaça böler?",
+    "correct_answer": "2 eş açıya",
+    "incorrect_answers": ["3", "4", "Sonsuz"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Sinüs hangi kenarın karşısını oranlar?",
+    "correct_answer": "Karşı kenar",
+    "incorrect_answers": ["Komşu kenar", "Hipotenüs", "Orta kenar"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Cosinus hangi kenarın komşusunu oranlar?",
+    "correct_answer": "Komşu kenar",
+    "incorrect_answers": ["Karşı kenar", "Hipotenüs", "Kenarortular"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Tanım gereği tanjant oranı nedir?",
+    "correct_answer": "Karşı/Komşu",
+    "incorrect_answers": ["Komşu/Hipotenüs", "Karşı/Hipotenüs", "Hipotenüs/Kenar"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Bir üçgende yükseklik en kısa mesafe midir?",
+    "correct_answer": "Evet",
+    "incorrect_answers": ["Hayır", "Bazen", "Sonsuz"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Açıortay kaç farklı üçgende olur?",
+    "correct_answer": "Her üçgende",
+    "incorrect_answers": ["Sadece eşkenar", "Sadece dik", "Sadece ikizkenar"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Kenarortular üçgenin ağırlık merkezinde kesişir mi?",
+    "correct_answer": "Evet",
+    "incorrect_answers": ["Hayır", "Bazen", "Sadece dik"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Alan = (taban × yükseklik) / ?",
+    "correct_answer": "2",
+    "incorrect_answers": ["3", "4", "1"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Hipotenüs hangi kenardır?",
+    "correct_answer": "Dik açının karşısında",
+    "incorrect_answers": ["Komşu kenarın yanında", "Açıortayın karşısında", "Kenarortuda"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Dik üçgenin kısa kenarlarına ne denir?",
+    "correct_answer": "Dik kenarlar",
+    "incorrect_answers": ["Karşı kenar", "Orta kenar", "Açı kenarı"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Sin 45° kaçtır?",
+    "correct_answer": "√2/2",
+    "incorrect_answers": ["1/2", "1", "√3/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Cos 30° kaçtır?",
+    "correct_answer": "√3/2",
+    "incorrect_answers": ["1/2", "1", "0"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Bir üçgende taban küçülürse alan?",
+    "correct_answer": "Azalır",
+    "incorrect_answers": ["Artar", "Aynı kalır", "Sıfır olur"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Bir üçgenin dış açıları toplamı kaçtır?",
+    "correct_answer": "360°",
+    "incorrect_answers": ["180°", "90°", "240°"],
+    "topic": "Üçgenler"
+  },
+  {
+    "question": "Ağırlık merkezi üçgeni kaç eş parçaya böler?",
+    "correct_answer": "6",
+    "incorrect_answers": ["3", "2", "4"],
+    "topic": "Kenarortay"
   }
 ]
+
