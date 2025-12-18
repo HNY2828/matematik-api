@@ -1,1 +1,245 @@
+[
+  {
+    "question": "ABC üçgeninde |AD| = |DB| ise D noktası hangi özelliğe sahiptir?",
+    "correct_answer": "Kenarortudur",
+    "incorrect_answers": ["Açıortudur", "Yüksekliktir", "Teğet merkezidir"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Bir üçgende [AB] ⟂ [AC] ve |AB|=6, |AC|=8 ise alan kaçtır?",
+    "correct_answer": "24",
+    "incorrect_answers": ["48", "12", "36"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Bir üçgende taban 3 katına çıkarılırsa alan nasıl değişir?",
+    "correct_answer": "3 katına çıkar",
+    "incorrect_answers": ["2 katına çıkar", "Aynı kalır", "Yarıya iner"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Açıortay açısından hangi ifade doğrudur?",
+    "correct_answer": "Bir açıyı iki eş açıya böler",
+    "incorrect_answers": ["Kenarları eşitler", "Üç eş açıya böler", "Hipotenüse paralel olur"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Kenarortuların kesiştiği nokta neresidir?",
+    "correct_answer": "Ağırlık merkezi",
+    "incorrect_answers": ["Teğet merkezi", "Dış merkez", "Orta dikme"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Ağırlık merkezi üçgeni kaç eş parçaya böler?",
+    "correct_answer": "6",
+    "incorrect_answers": ["3", "2", "4"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Bir dik üçgende alan formülü nedir?",
+    "correct_answer": "(a×b)/2",
+    "incorrect_answers": ["a×b", "(a+b)/2", "(a×b)/3"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Tabanı 10 cm yüksekliği 4 cm olan üçgenin alanı kaçtır?",
+    "correct_answer": "20",
+    "incorrect_answers": ["40", "15", "10"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "|CE| = 2|BE| ise alan oranı ne olur?",
+    "correct_answer": "2:1",
+    "incorrect_answers": ["1:1", "3:1", "1:2"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Açıortay nereye kadar uzanır?",
+    "correct_answer": "Karşı kenara",
+    "incorrect_answers": ["Ağırlık merkezine", "Dış merkeze", "Hipotenüse"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "ABC üçgeninde tabanlar eşitse alan oranı neye bağlıdır?",
+    "correct_answer": "Yüksekliklere",
+    "incorrect_answers": ["Açılara", "Hipotenüse", "Teğet merkezine"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "|AB| = 12 ve yükseklik 5 ise alan kaçtır?",
+    "correct_answer": "30",
+    "incorrect_answers": ["60", "24", "20"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Açıortayların kesişim noktası neresidir?",
+    "correct_answer": "İç teğet merkezi",
+    "incorrect_answers": ["Ağırlık merkezi", "Dış merkez", "Orta nokta"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Bir üçgende alan artması için ne yapılmalıdır?",
+    "correct_answer": "Taban veya yükseklik artırılmalıdır",
+    "incorrect_answers": ["Kenarortular artırılmalı", "Açıortaylar uzatılmalı", "Dış merkez kaydırılmalı"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Bir üçgende yükseklik azalırsa alan?",
+    "correct_answer": "Azalır",
+    "incorrect_answers": ["Artar", "Aynı kalır", "Sonsuz olur"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Taban uzunluğu yarıya indirilirse alan nasıl değişir?",
+    "correct_answer": "Yarıya iner",
+    "incorrect_answers": ["Artar", "Dört katına çıkar", "Sabit kalır"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Kenarortular kaç noktada kesişir?",
+    "correct_answer": "Bir",
+    "incorrect_answers": ["İki", "Üç", "Sonsuz"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Açıortay üçgeni kaça böler?",
+    "correct_answer": "İki eş açıya",
+    "incorrect_answers": ["Üç eş açıya", "Sonsuz açıya", "Eşit kenarlara"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Teğet merkezinin diğer adı nedir?",
+    "correct_answer": "Incenter",
+    "incorrect_answers": ["Centroid", "Circumcenter", "Orthocenter"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Alan = (taban × yükseklik) / ?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "3", "4"],
+    "topic": "Üçgende Alan"
+  },
+
+  {
+    "question": "Bir üçgende aynı yükseklikten çizilen iki taban uzunluğu 2 ve 4 ise alan oranları?",
+    "correct_answer": "1:2",
+    "incorrect_answers": ["2:1", "1:4", "4:1"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Bir üçgende eş kenarlara çizilen yükseklikler nasıldır?",
+    "correct_answer": "Eşit",
+    "incorrect_answers": ["Ters orantılı", "Farklı", "Rastgele"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Ağırlık merkezi kenarortuyu nasıl böler?",
+    "correct_answer": "2:1 oranında",
+    "incorrect_answers": ["1:1", "1:2", "3:1"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Kenarortuların toplamı kenar toplamı ile karşılaştırılırsa?",
+    "correct_answer": "Daha küçüktür",
+    "incorrect_answers": ["Eşittir", "Büyüktür", "Sonsuzdur"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Bir üçgende iç teğet merkezi kaç açıortunun kesişimiyle oluşur?",
+    "correct_answer": "3",
+    "incorrect_answers": ["2", "4", "6"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Açıortay bağıntısı hangi oranla ilgilidir?",
+    "correct_answer": "Kenar oranlarıyla",
+    "incorrect_answers": ["Alan oranlarıyla", "Açı oranlarıyla", "Yükseklik oranlarıyla"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Bir üçgende DE çizgisinin alanlara etkisi neye bağlıdır?",
+    "correct_answer": "Oranı tabana göre belirler",
+    "incorrect_answers": ["Kenarortuya göre", "Yükseklik eşitliğine", "Açılara"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Taban iki katına yükseklik yarıya inerse alan?",
+    "correct_answer": "Aynı kalır",
+    "incorrect_answers": ["Artar", "Azalır", "Sonsuz olur"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Açıortay kenarları hangi orana göre böler?",
+    "correct_answer": "Kenar uzunlukları oranında",
+    "incorrect_answers": ["Alan oranında", "Yükseklik oranında", "Rastgele"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Bütün kenarortular çizildiğinde oluşan şekil?",
+    "correct_answer": "6 eş üçgen",
+    "incorrect_answers": ["3 eş üçgen", "4 eş üçgen", "2 eş üçgen"],
+    "topic": "Kenarortay"
+  },
+
+  {
+    "question": "Bir üçgende yüksekliğin ayak noktası nerede olur?",
+    "correct_answer": "Tabanda",
+    "incorrect_answers": ["Ağırlık merkezinde", "Açı kenarında", "Teğet merkezinde"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Kenarortuların uzunluklarının toplamı hangi büyüklükten küçüktür?",
+    "correct_answer": "Kenarların toplamından",
+    "incorrect_answers": ["Alan toplamından", "Açıların toplamından", "Pisagor değerinden"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "İç teğet merkezi hangi merkezdir?",
+    "correct_answer": "Incenter",
+    "incorrect_answers": ["Orthocenter", "Centroid", "Circumcenter"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Dış teğet merkezi hangi merkeze aittir?",
+    "correct_answer": "Excenter",
+    "incorrect_answers": ["Incenter", "Centroid", "Orthocenter"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Kenarortular kaç eş üçgen oluşturur?",
+    "correct_answer": "6",
+    "incorrect_answers": ["3", "4", "9"],
+    "topic": "Kenarortay"
+  },
+  {
+    "question": "Açıortay bağıntısı hangi üçgenlerde geçerlidir?",
+    "correct_answer": "Tüm üçgenlerde",
+    "incorrect_answers": ["Dik üçgenlerde", "Eşkenarda", "Sadece ikizkenarda"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Alan hangi iki büyüklüğün çarpımının yarısıdır?",
+    "correct_answer": "Taban×yükseklik",
+    "incorrect_answers": ["Kenar×açı", "Kenar×kenar", "Teğet×yarıçap"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Bir üçgende teğet merkezinden ne çizilebilir?",
+    "correct_answer": "İç teğet çemberi",
+    "incorrect_answers": ["Dış teğet çemberi", "Çevrel çember", "Yer merkez çemberi"],
+    "topic": "Açıortay"
+  },
+  {
+    "question": "Bir üçgende alan paylaşımı hangi büyüklüklere bağlıdır?",
+    "correct_answer": "Taban ve yükseklik",
+    "incorrect_answers": ["Kenarortular", "Teğet merkezleri", "Açıortular"],
+    "topic": "Üçgende Alan"
+  },
+  {
+    "question": "Üçgen alanı neye bağlıdır?",
+    "correct_answer": "Tabana ve yüksekliğe",
+    "incorrect_answers": ["Dış merkeze", "Kenarortulara", "Açıların ölçüsüne"],
+    "topic": "Üçgende Alan"
+  }
+]
 
