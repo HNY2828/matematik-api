@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+    "correct_answer": "Osman Bey",
+    "incorrect_answers": ["Fatih Sultan Mehmet", "Kanuni", "Yavuz Sultan Selim"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "İstanbul hangi padişah döneminde fethedilmiştir?",
+    "correct_answer": "Fatih Sultan Mehmet",
+    "incorrect_answers": ["Kanuni", "Yıldırım Bayezid", "II. Murad"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Türklerin Anadolu'ya girişini sağlayan savaş hangisidir?",
+    "correct_answer": "Malazgirt",
+    "incorrect_answers": ["Miryokefalon", "Sakarya", "Çaldıran"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Kurtuluş Savaşı'nın başkomutanı kimdir?",
+    "correct_answer": "Mustafa Kemal Atatürk",
+    "incorrect_answers": ["İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "TBMM hangi yılda açıldı?",
+    "correct_answer": "1920",
+    "incorrect_answers": ["1919", "1921", "1923"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Cumhuriyet hangi yılda ilan edildi?",
+    "correct_answer": "1923",
+    "incorrect_answers": ["1920", "1925", "1918"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "İlk Türk devletlerinden hangisi Orhun Yazıtları'nı bırakmıştır?",
+    "correct_answer": "Göktürkler",
+    "incorrect_answers": ["Uygurlar", "Selçuklular", "Hunlar"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Osmanlı Devleti'nde tımar sistemi hangi alanda kullanılırdı?",
+    "correct_answer": "Askeri ve ekonomi",
+    "incorrect_answers": ["Eğitim", "Diplomasi", "Sanat"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Kapitülasyonlar hangi alanda kolaylık sağlar?",
+    "correct_answer": "Ticaret",
+    "incorrect_answers": ["Askeri", "Eğitim", "Sağlık"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Lozan Barış Antlaşması hangi yıl imzalanmıştır?",
+    "correct_answer": "1923",
+    "incorrect_answers": ["1920", "1921", "1925"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Sakarya Meydan Muharebesi hangi yıl olmuştur?",
+    "correct_answer": "1921",
+    "incorrect_answers": ["1920", "1919", "1922"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "İlk Türk alfabesi hangisidir?",
+    "correct_answer": "Orhun",
+    "incorrect_answers": ["Arap", "Latin", "Uygur"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Türklerin ilk yazılı belgeleri nelerdir?",
+    "correct_answer": "Orhun Yazıtları",
+    "incorrect_answers": ["Divan-ı Lügatit Türk", "Nutuk", "Kutadgu Bilig"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Sevr Antlaşması'nı hangi devletler imzaladı?",
+    "correct_answer": "İtilaf Devletleri",
+    "incorrect_answers": ["İttifak devletleri", "ABD", "Sovyetler"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "I. Dünya Savaşı hangi yıllar arasında oldu?",
+    "correct_answer": "1914-1918",
+    "incorrect_answers": ["1910-1914", "1915-1919", "1920-1923"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Kurtuluş Savaşı'nı başlatan karar hangisidir?",
+    "correct_answer": "Amasya Genelgesi",
+    "incorrect_answers": ["Erzurum Kongresi", "Sivas Kongresi", "Lozan"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "I. TBMM hangi şehirde açılmıştır?",
+    "correct_answer": "Ankara",
+    "incorrect_answers": ["İstanbul", "Sivas", "Erzurum"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Osmanlı Devleti hangi yıl resmen sona ermiştir?",
+    "correct_answer": "1922",
+    "incorrect_answers": ["1920", "1923", "1918"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Türk Dil Kurumu hangi yıl kurulmuştur?",
+    "correct_answer": "1932",
+    "incorrect_answers": ["1928", "1930", "1934"],
+    "topic": "Tarih"
+  },
+  {
+    "question": "Alparslan hangi savaşta Bizans'ı yenmiştir?",
+    "correct_answer": "Malazgirt",
+    "incorrect_answers": ["Miryokefalon", "Pasinler", "Sakarya"],
+    "topic": "Tarih"
+  }
+]
