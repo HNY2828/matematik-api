@@ -1,1 +1,269 @@
+[
+  {
+    "question": "lim x→0 için sinx/x kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["0", "∞", "-1"],
+    "topic": "Limit"
+  },
+  {
+    "question": "lim x→∞ 1/x kaçtır?",
+    "correct_answer": "0",
+    "incorrect_answers": ["1", "∞", "-1"],
+    "topic": "Limit"
+  },
+  {
+    "question": "f(x)=x² fonksiyonunun türevi nedir?",
+    "correct_answer": "2x",
+    "incorrect_answers": ["x²", "x", "2"],
+    "topic": "Türev"
+  },
+  {
+    "question": "f(x)=3x fonksiyonunun türevi?",
+    "correct_answer": "3",
+    "incorrect_answers": ["x", "0", "3x"],
+    "topic": "Türev"
+  },
+  {
+    "question": "∫ x dx kaçtır?",
+    "correct_answer": "x²/2 + C",
+    "incorrect_answers": ["2x + C", "x² + C", "1/x + C"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "∫ 3 dx sonucu?",
+    "correct_answer": "3x + C",
+    "incorrect_answers": ["x + C", "3 + C", "0 + C"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "Türev neyi ölçer?",
+    "correct_answer": "Değişim hızını",
+    "incorrect_answers": ["Toplamı", "Alanı", "Açıları"],
+    "topic": "Türev"
+  },
+  {
+    "question": "Limit neyi ifade eder?",
+    "correct_answer": "Yakınsama değerini",
+    "incorrect_answers": ["Maksimum", "Minimum", "Türev"],
+    "topic": "Limit"
+  },
+  {
+    "question": "∫ 0'dan 2'ye 1 dx kaçtır?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "0", "3"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "Türev sıfır ise grafik nasıldır?",
+    "correct_answer": "Yatay",
+    "incorrect_answers": ["Dikey", "Artan", "Azalan"],
+    "topic": "Türev"
+  },
+
+  {
+    "question": "lim x→2 x² = ?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "6", "0"],
+    "topic": "Limit"
+  },
+  {
+    "question": "lim x→∞ (5x)/(x) = ?",
+    "correct_answer": "5",
+    "incorrect_answers": ["0", "∞", "1"],
+    "topic": "Limit"
+  },
+  {
+    "question": "d/dx (ln x) = ?",
+    "correct_answer": "1/x",
+    "incorrect_answers": ["x", "ln x", "x²"],
+    "topic": "Türev"
+  },
+  {
+    "question": "d/dx (e^x) = ?",
+    "correct_answer": "e^x",
+    "incorrect_answers": ["x e^x", "1", "e"],
+    "topic": "Türev"
+  },
+  {
+    "question": "∫ cos x dx = ?",
+    "correct_answer": "sin x + C",
+    "incorrect_answers": ["-sin x + C", "cos x + C", "tan x + C"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "∫ sin x dx = ?",
+    "correct_answer": "-cos x + C",
+    "incorrect_answers": ["cos x + C", "tan x + C", "x + C"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "A(2,3) B(5,7) noktalarının eğimi?",
+    "correct_answer": "4/3",
+    "incorrect_answers": ["3/4", "1", "2"],
+    "topic": "Analitik"
+  },
+  {
+    "question": "Matrislerde determinant hangi sembolle gösterilir?",
+    "correct_answer": "|A|",
+    "incorrect_answers": ["A!", "ΔA", "(A)"],
+    "topic": "Matris"
+  },
+  {
+    "question": "i⁴ kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["-1", "i", "-i"],
+    "topic": "Karmaşık"
+  },
+  {
+    "question": "n! hangi kavrama aittir?",
+    "correct_answer": "Permütasyon",
+    "incorrect_answers": ["Kombinasyon", "Olasılık", "Dizi"],
+    "topic": "Permütasyon"
+  },
+
+  {
+    "question": "Cos 0° kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["0", "-1", "1/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Sin 270° kaçtır?",
+    "correct_answer": "-1",
+    "incorrect_answers": ["1", "0", "-1/2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Tan 45° kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["0", "-1", "2"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "lim x→1 (x² - 1)/(x - 1) = ?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "0", "∞"],
+    "topic": "Limit"
+  },
+  {
+    "question": "d/dx (x³) = ?",
+    "correct_answer": "3x²",
+    "incorrect_answers": ["x²", "3x", "x³"],
+    "topic": "Türev"
+  },
+  {
+    "question": "∫ 2x dx = ?",
+    "correct_answer": "x² + C",
+    "incorrect_answers": ["2x² + C", "x + C", "2 + C"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "log₁₀ 100 = ?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "10", "0"],
+    "topic": "Logaritma"
+  },
+  {
+    "question": "log₂ 32 = ?",
+    "correct_answer": "5",
+    "incorrect_answers": ["4", "3", "6"],
+    "topic": "Logaritma"
+  },
+  {
+    "question": "∫ 0→1 x dx = ?",
+    "correct_answer": "1/2",
+    "incorrect_answers": ["1", "0", "2"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "Bir fonksiyonda limit yoksa buna ne denir?",
+    "correct_answer": "Diverjans",
+    "incorrect_answers": ["Konverjans", "Türev", "İntegral"],
+    "topic": "Limit"
+  },
+  {
+    "question": "Türev hangi noktada tanjantın eğimini verir?",
+    "correct_answer": "O noktada",
+    "incorrect_answers": ["Başlangıçta", "Sonuçta", "Yatayda"],
+    "topic": "Türev"
+  },
+  {
+    "question": "İntegral neyi hesaplar?",
+    "correct_answer": "Alan",
+    "incorrect_answers": ["Hacim", "Eğim", "Dönüşüm"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "lim x→∞ (3x²)/(x²) = ?",
+    "correct_answer": "3",
+    "incorrect_answers": ["0", "∞", "1"],
+    "topic": "Limit"
+  },
+  {
+    "question": "log₅ 1 = ?",
+    "correct_answer": "0",
+    "incorrect_answers": ["1", "5", "-1"],
+    "topic": "Logaritma"
+  },
+  {
+    "question": "d/dx (sin x) = ?",
+    "correct_answer": "cos x",
+    "incorrect_answers": ["-cos x", "tan x", "1"],
+    "topic": "Türev"
+  },
+  {
+    "question": "d/dx (cos x) = ?",
+    "correct_answer": "-sin x",
+    "incorrect_answers": ["sin x", "tan x", "1"],
+    "topic": "Türev"
+  },
+  {
+    "question": "∫ tan x dx = ?",
+    "correct_answer": "-ln|cos x| + C",
+    "incorrect_answers": ["ln|sin x| + C", "x + C", "sec x + C"],
+    "topic": "İntegral"
+  },
+  {
+    "question": "Bir doğru dik ise eğim çarpımı kaçtır?",
+    "correct_answer": "-1",
+    "incorrect_answers": ["1", "0", "∞"],
+    "topic": "Analitik"
+  },
+  {
+    "question": "|i| kaçtır?",
+    "correct_answer": "1",
+    "incorrect_answers": ["0", "-1", "√2"],
+    "topic": "Karmaşık"
+  },
+  {
+    "question": "C(5,2) kaçtır?",
+    "correct_answer": "10",
+    "incorrect_answers": ["20", "5", "15"],
+    "topic": "Kombinasyon"
+  },
+  {
+    "question": "P(4,2) kaçtır?",
+    "correct_answer": "12",
+    "incorrect_answers": ["8", "6", "20"],
+    "topic": "Permütasyon"
+  },
+  {
+    "question": "Bir deneyde tüm sonuçların toplamına ne denir?",
+    "correct_answer": "Örnek uzayı",
+    "incorrect_answers": ["Olay", "Sonuç", "Çıkış"],
+    "topic": "Olasılık"
+  },
+  {
+    "question": "Sinüs teoremi hangi üçgende geçerlidir?",
+    "correct_answer": "Tüm üçgenlerde",
+    "incorrect_answers": ["Sadece dik", "İkizkenar", "Eşkenar"],
+    "topic": "Trigonometri"
+  },
+  {
+    "question": "Cosinüs teoremi hangi bağıntıyı içerir?",
+    "correct_answer": "a² = b² + c² - 2bc cosA",
+    "incorrect_answers": ["a = b + c", "a² = bc", "a² = b² + c²"],
+    "topic": "Trigonometri"
+  }
+]
 
