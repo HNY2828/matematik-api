@@ -1,4 +1,5 @@
-[
+{
+  "questions":[
   {
     "question": "Bir üçgende taban uzunluğu 8 cm ve yüksekliği 6 cm ise alanı kaçtır?",
     "correct_answer": "24",
