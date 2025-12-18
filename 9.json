@@ -1,8 +1,185 @@
-[
-  {
-    "question": "Sin 30° kaçtır?",
-    "correct_answer": "1/2",
-    "incorrect_answers": ["√3/2", "1", "0"],
-    "topic": "Trigonometri"
-  }
-]
+{
+  "questions": [
+    {
+      "question": "Bir üçgende taban uzunluğu 8 cm ve yüksekliği 6 cm ise alanı kaç cm²'dir?",
+      "options": ["A) 12", "B) 24", "C) 36", "D) 48"],
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende taban iki katına çıkarılırsa alan nasıl değişir?",
+      "options": ["A) Yarısına iner", "B) İki katına çıkar", "C) Aynı kalır", "D) Dört katına çıkar"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Alanı 30 cm² olan bir üçgende yükseklik 5 cm ise tabanı kaç cm'dir?",
+      "options": ["A) 6", "B) 10", "C) 12", "D) 15"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Açıortay, bir açıyı nasıl böler?",
+      "options": ["A) İkiye", "B) Üçe", "C) Dörde", "D) Rastgele"],
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende kenarortay, kenarı nasıl böler?",
+      "options": ["A) 1/3-2/3", "B) Eşit iki parçaya", "C) Üç eşit parça", "D) Rastgele"],
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Alanı 48 cm² olan bir üçgende taban 12 cm ise yükseklik kaç cm'dir?",
+      "options": ["A) 4", "B) 6", "C) 8", "D) 10"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Bir üçgende kenarortay uzunluğu hangi noktada kesişir?",
+      "options": ["A) Açıortay merkezi", "B) Kenarortay merkezi", "C) Ağırlık merkezi", "D) Çevre merkezi"],
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "ABC üçgeninde |AB| = 10 cm, kenarortay uzunluğu 8 cm ise bu kenarortay hangi kenara çizilmiştir?",
+      "options": ["A) AB", "B) BC", "C) AC", "D) Belirtilmez"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Bir üçgenin alanı 30 cm²’dir. Yüksekliği 10 cm olan üçgenin taban uzunluğu kaç cm’dir?",
+      "options": ["A) 3", "B) 4", "C) 6", "D) 8"],
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende açıortay uzunluğu en çok hangi kenara bağlıdır?",
+      "options": ["A) Yüksekliğe", "B) Taban uzunluğuna", "C) Alanına", "D) Çevreye"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Bir üçgende 2 kenar ve aralarındaki açı biliniyorsa alan hangi formülle bulunur?",
+      "options": ["A) Heron", "B) 1/2 ab sinC", "C) Pisagor", "D) Açıortay"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Alanı 24 cm² olan ve yüksekliği 6 cm olan üçgenin tabanı kaç cm’dir?",
+      "options": ["A) 4", "B) 6", "C) 8", "D) 12"],
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende yükseklik dışarıdan çizilebilir mi?",
+      "options": ["A) Evet", "B) Hayır", "C) Sadece eşkenarda", "D) Sadece ikizkenarda"],
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "İç teğet merkezi üçgende hangi açıların açıortaylarının kesişimidir?",
+      "options": ["A) Kenarlar", "B) İç açıların", "C) Dış açıların", "D) Taban açıların"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Bir üçgende çevre hesaplanırken hangi değerler toplanır?",
+      "options": ["A) Alan ve yükseklik", "B) Açılar", "C) Kenarlar", "D) Yükseklikler"],
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende 60°–60°–60° açıları varsa bu üçgenin tipi nedir?",
+      "options": ["A) Eşkenar", "B) Dik", "C) Dar açılı", "D) Geniş açılı"],
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "İkizkenar üçgende taban açıları nasıldır?",
+      "options": ["A) Eşit", "B) Dik", "C) Dar", "D) Geniş"],
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Geniş açılı üçgende en uzun kenar nerede bulunur?",
+      "options": ["A) Geniş açının karşısında", "B) Dar açının yanında", "C) Geniş açının yanında", "D) Taban üzerinde"],
+      "answer": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Bir üçgende 1 kenar 7 cm, diğer kenar 9 cm ise üçüncü kenarın alabileceği değer aşağıdakilerden hangisi olabilir?",
+      "options": ["A) 1", "B) 3", "C) 5", "D) 17"],
+      "answer": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Bir üçgende dar açı sayısı en az kaçtır?",
+      "options": ["A) 0", "B) 1", "C) 2", "D) 3"],
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Üçgende yükseklik kenara hangi açıyla çizilir?",
+      "options": ["A) 30°", "B) 45°", "C) 60°", "D) 90°"],
+      "answer": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende toplam kenar uzunlukları 18 cm ise çevre kaç cm’dir?",
+      "options": ["A) 6", "B) 9", "C) 18", "D) 36"],
+      "answer": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Ağırlık merkezi üçgende nereye located?",
+      "options": ["A) Tepeye", "B) Üç kenarortunun kesişimine", "C) Üç açıortunun kesişimine", "D) Teğet merkezine"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Tabanı 10 cm ve yüksekliği 3 cm olan üçgenin alanı kaçtır?",
+      "options": ["A) 10", "B) 15", "C) 20", "D) 30"],
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Dik üçgende hipotenüs hangi kenardır?",
+      "options": ["A) En uzun kenar", "B) Dik kenar", "C) Taban", "D) Kenarortay"],
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende kenar uzunlukları 5-5-6 ise bu nasıl bir üçgendir?",
+      "options": ["A) Eşkenar", "B) Dik", "C) İkizkenar", "D) Geniş açılı"],
+      "answer": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "İki kenarı bilinen bir dik üçgende üçüncü kenar hangi yöntemle bulunabilir?",
+      "options": ["A) Açıortay", "B) Pisagor", "C) Alan formülü", "D) Kenarortay"],
+      "answer": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Bir üçgende açıları 30° ve 40° ise üçüncü açı kaç derecedir?",
+      "options": ["A) 110°", "B) 120°", "C) 130°", "D) 140°"],
+      "answer": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Üçgenin çevresi 30 cm, iki kenarı 10 cm ve 8 cm ise üçüncü kenar kaçtır?",
+      "options": ["A) 10", "B) 12", "C) 15", "D) 18"],
+      "answer": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Bir üçgenin bütün açıları dar ise bu üçgene ne ad verilir?",
+      "options": ["A) Dik üçgen", "B) Dar açılı üçgen", "C) Geniş açılı üçgen", "D) Eşkenar"],
+      "answer": "B",
+      "difficulty": "easy"
+    }
+  ]
+}
+
