@@ -118,5 +118,119 @@
     "correct_answer": "Malazgirt",
     "incorrect_answers": ["Miryokefalon", "Pasinler", "Sakarya"],
     "topic": "Tarih"
+  },
+  {
+    "question": "Osmanlı Devleti’nde ilk anayasa olan Kanun-i Esasi hangi yıl ilan edilmiştir?",
+    "correct_answer": "1876",
+    "incorrect_answers": ["1839", "1908", "1921"],
+    "topic": "Osmanlı Yenileşme Dönemi"
+  },
+  {
+    "question": "Türk tarihindeki ilk yazılı belge olarak kabul edilen eser hangisidir?",
+    "correct_answer": "Orhun Yazıtları",
+    "incorrect_answers": ["Divan-ı Lügatit Türk", "Kutadgu Bilig", "Dede Korkut Hikâyeleri"],
+    "topic": "İlk Türk Devletleri"
+  },
+  {
+    "question": "Osmanlı Devleti’nin ilk başkenti aşağıdakilerden hangisidir?",
+    "correct_answer": "Söğüt",
+    "incorrect_answers": ["Bursa", "Edirne", "İstanbul"],
+    "topic": "Osmanlı Kuruluş Dönemi"
+  },
+  {
+    "question": "I. Balkan Savaşı’nın Osmanlı Devleti açısından en önemli sonucu aşağıdakilerden hangisidir?",
+    "correct_answer": "Balkanlardaki toprakların büyük kısmının kaybedilmesi",
+    "incorrect_answers": [
+      "Halifeliğin kaldırılması",
+      "Başkent İstanbul’un kaybedilmesi",
+      "Boğazların elden çıkması"
+    ],
+    "topic": "Osmanlı Savaşları"
+  },
+  {
+    "question": "Amasya Genelgesi’nde milli mücadelenin gerekçesi hangi ifadeyle açıklanmıştır?",
+    "correct_answer": "Vatanın bütünlüğü ve milletin bağımsızlığı tehlikededir",
+    "incorrect_answers": [
+      "Saltanat kaldırılacaktır",
+      "Cumhuriyet ilan edilecektir",
+      "Meclis açılacaktır"
+    ],
+    "topic": "Milli Mücadele"
+  },
+  {
+    "question": "Milli Mücadele’de halkın yönetime katılımını artıran kongre aşağıdakilerden hangisidir?",
+    "correct_answer": "Sivas Kongresi",
+    "incorrect_answers": ["Erzurum Kongresi", "Amasya Görüşmeleri", "Londra Konferansı"],
+    "topic": "Milli Mücadele"
+  },
+  {
+    "question": "Türkiye Cumhuriyeti’nin ilk anayasası hangisidir?",
+    "correct_answer": "1921 Anayasası",
+    "incorrect_answers": ["1924 Anayasası", "1961 Anayasası", "1982 Anayasası"],
+    "topic": "Cumhuriyet Dönemi"
+  },
+  {
+    "question": "Eğitim alanında yapılan inkılap aşağıdakilerden hangisidir?",
+    "correct_answer": "Tevhid-i Tedrisat Kanunu",
+    "incorrect_answers": ["Soyadı Kanunu", "Kabotaj Kanunu", "Şapka Kanunu"],
+    "topic": "Atatürk İnkılapları"
+  },
+  {
+    "question": "Saltanatın kaldırılmasıyla aşağıdakilerden hangisi sona ermiştir?",
+    "correct_answer": "Osmanlı Devleti’nin yönetim şekli",
+    "incorrect_answers": [
+      "Halifelik kurumu",
+      "Cumhuriyet rejimi",
+      "Milli egemenlik"
+    ],
+    "topic": "Atatürk Dönemi"
+  },
+  {
+    "question": "Aşağıdakilerden hangisi Atatürk ilkelerinden biri değildir?",
+    "correct_answer": "Ümmetçilik",
+    "incorrect_answers": ["Halkçılık", "Laiklik", "Cumhuriyetçilik"],
+    "topic": "Atatürk İlkeleri"
+  },
+  {
+    "question": "Osmanlı Devleti’nde modern ordu kurma çalışmaları ilk kez hangi padişah döneminde başlamıştır?",
+    "correct_answer": "III. Selim",
+    "incorrect_answers": ["II. Mahmut", "I. Abdülmecit", "IV. Murat"],
+    "topic": "Osmanlı Islahatları"
+  },
+  {
+    "question": "Lozan Antlaşması’nın en önemli sonucu aşağıdakilerden hangisidir?",
+    "correct_answer": "Türkiye’nin bağımsızlığının tanınması",
+    "incorrect_answers": [
+      "Boğazların kaybedilmesi",
+      "Saltanatın kaldırılması",
+      "Halifeliğin güçlenmesi"
+    ],
+    "topic": "Kurtuluş Savaşı"
+  },
+  {
+    "question": "Aşağıdaki devletlerden hangisi İlk Türk Devletleri arasında yer almaz?",
+    "correct_answer": "Hititler",
+    "incorrect_answers": ["Hunlar", "Göktürkler", "Uygurlar"],
+    "topic": "İlk Türk Devletleri"
+  },
+  {
+    "question": "Cumhuriyet’in ilan edilmesiyle birlikte hangi yönetim anlayışı benimsenmiştir?",
+    "correct_answer": "Milli egemenlik",
+    "incorrect_answers": [
+      "Saltanat",
+      "Mutlak monarşi",
+      "Teokratik yönetim"
+    ],
+    "topic": "Cumhuriyet Dönemi"
+  },
+  {
+    "question": "Aşağıdakilerden hangisi Osmanlı Devleti’nin dağılma sürecini hızlandıran gelişmelerden biridir?",
+    "correct_answer": "Milliyetçilik hareketleri",
+    "incorrect_answers": [
+      "İskan politikası",
+      "Tımar sisteminin güçlenmesi",
+      "Ahilik teşkilatı"
+    ],
+    "topic": "Osmanlı Dağılma Dönemi"
   }
 ]
