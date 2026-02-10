@@ -194,7 +194,7 @@
   {
     "question": "Bir üçgende alan artması için ne yapılmalıdır?",
     "correct_answer": "Taban veya yükseklik artırılır",
-    "incorrect_answers": ["Kenarortular artırılır", "Açıortaylar değişir", "Merkez kayar"],
+    "incorrect_answers": ["Kenarortaylar artırılır", "Açıortaylar değişir", "Merkez kayar"],
     "topic": "Üçgende Alan"
   },
   {
@@ -218,7 +218,7 @@
   {
     "question": "Cosinus hangi kenarın komşusunu oranlar?",
     "correct_answer": "Komşu kenar",
-    "incorrect_answers": ["Karşı kenar", "Hipotenüs", "Kenarortular"],
+    "incorrect_answers": ["Karşı kenar", "Hipotenüs", "Kenarortaylar"],
     "topic": "Trigonometri"
   },
   {
@@ -254,7 +254,7 @@
   {
     "question": "Hipotenüs hangi kenardır?",
     "correct_answer": "Dik açının karşısında",
-    "incorrect_answers": ["Komşu kenarın yanında", "Açıortayın karşısında", "Kenarortuda"],
+    "incorrect_answers": ["Komşu kenarın yanında", "Açıortayın karşısında", "Kenarortayda"],
     "topic": "Üçgenler"
   },
   {
