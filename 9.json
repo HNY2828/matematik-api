@@ -30,13 +30,13 @@
     "topic": "Açıortay"
   },
   {
-    "question": "Bir üçgende kenarortuların kesişim noktası neresidir?",
+    "question": "Bir üçgende kenarortayların kesişim noktası neresidir?",
     "correct_answer": "Ağırlık merkezi",
     "incorrect_answers": ["Orta dikme", "Açıortay", "Teğet merkezi"],
     "topic": "Kenarortay"
   },
   {
-    "question": "Bir üçgende kenarortular kaç noktada kesişir?",
+    "question": "Bir üçgende kenarortaylar kaç noktada kesişir?",
     "correct_answer": "Bir",
     "incorrect_answers": ["İki", "Üç", "Sonsuz"],
     "topic": "Kenarortay"
@@ -174,7 +174,7 @@
     "topic": "Açıortay"
   },
   {
-    "question": "Üçgende kenarortuların uzunlukları toplamı nasıl olur?",
+    "question": "Üçgende kenarortayların uzunlukları toplamı nasıl olur?",
     "correct_answer": "Kenar toplamından küçüktür",
     "incorrect_answers": ["Kenar toplamına eşittir", "Büyüktür", "Sonsuz"],
     "topic": "Kenarortay"
@@ -198,7 +198,7 @@
     "topic": "Üçgende Alan"
   },
   {
-    "question": "Kenarortuların kesiştiği nokta üçgeni kaça böler?",
+    "question": "Kenarortayların kesiştiği nokta üçgeni kaça böler?",
     "correct_answer": "6 eş parçaya",
     "incorrect_answers": ["2", "3", "4"],
     "topic": "Kenarortay"
@@ -240,7 +240,7 @@
     "topic": "Açıortay"
   },
   {
-    "question": "Kenarortular üçgenin ağırlık merkezinde kesişir mi?",
+    "question": "Kenarortaylar üçgenin ağırlık merkezinde kesişir mi?",
     "correct_answer": "Evet",
     "incorrect_answers": ["Hayır", "Bazen", "Sadece dik"],
     "topic": "Kenarortay"
