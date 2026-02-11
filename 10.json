@@ -644,16 +644,14 @@
 },
   {
   "question": "Grafikte verilen doğruya göre f(1) değeri kaçtır?",
- "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/refs/heads/main/graphs/pdf_linear_1.png"
-",
+ "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/refs/heads/main/graphs/pdf_linear_1.png",
   "correct_answer": "3",
   "incorrect_answers": ["1","2","4"],
   "topic": "Doğrusal Fonksiyon"
 },
   {
   "question": "Grafikte verilen doğrunun x eksenini kestiği nokta nedir?",
- "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/refs/heads/main/graphs/pdf_linear_2.png"
-",
+ "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/refs/heads/main/graphs/pdf_linear_2.png",
   "correct_answer": "1",
   "incorrect_answers": ["-1","0","2"],
   "topic": "Kök Bulma"
