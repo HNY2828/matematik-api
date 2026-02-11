@@ -612,28 +612,28 @@
   },
   {
   "question": "Grafikte verilen doğrusal fonksiyona göre f(2) değeri kaçtır?",
-  "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/main/graphs/linear_01.png",
+  "image": "assets/graphs/linear_01.png",
   "correct_answer": "5",
   "incorrect_answers": ["3","4","6"],
   "topic": "Doğrusal Fonksiyon"
 },
   {
   "question": "Grafikte verilen doğrunun eğimi kaçtır?",
-  "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/main/graphs/slope_01.png",
+  "image": "assets/graphs/slope_01.png",
   "correct_answer": "-1",
   "incorrect_answers": ["1","3","0"],
   "topic": "Eğim"
 },
  {
   "question": "Grafiğe göre fonksiyonun minimum değeri kaçtır?",
- "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/main/graphs/parabola_01.png",
+  "image": "assets/graphs/parabola_01.png",
   "correct_answer": "-4",
   "incorrect_answers": ["0","-2","4"],
   "topic": "Parabol"
 },
   {
   "question": "Grafiğe göre fonksiyon hangi aralıkta artandır?",
-  "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/main/graphs/increasing_01.png",
+   "image": "assets/graphs/increasing_01.png",
   "correct_answer": "(-inf, inf)",
   "incorrect_answers": [
     "(0,inf)",
@@ -644,14 +644,14 @@
 },
   {
   "question": "Grafikte verilen doğruya göre f(1) değeri kaçtır?",
-  "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/main/graphs/pdf_linear_1.png",
+  "image": "assets/graphs/pdf_linear_1.png",
   "correct_answer": "3",
   "incorrect_answers": ["1","2","4"],
   "topic": "Doğrusal Fonksiyon"
 },
   {
   "question": "Grafikte verilen doğrunun x eksenini kestiği nokta nedir?",
-  "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/main/graphs/pdf_linear_2.png",
+  "image": "assets/graphs/pdf_linear_2.png",
   "correct_answer": "1",
   "incorrect_answers": ["-1","0","2"],
   "topic": "Kök Bulma"
