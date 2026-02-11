@@ -240,6 +240,375 @@
     "correct_answer": "Tabana ve yüksekliğe",
     "incorrect_answers": ["Dış merkeze", "Kenarortulara", "Açıların ölçüsüne"],
     "topic": "Üçgende Alan"
-  }
+  },
+  {
+    "question": "9x² − 16y² ifadesini çarpanlarına ayırınız.",
+    "correct_answer": "(3x - 4y)(3x + 4y)",
+    "incorrect_answers": [
+      "(9x - 16y)(x + y)",
+      "(3x - 4y)^2",
+      "(9x - 4y)(x + 4y)"],
+    "topic": "Özdeşlikler"
+  },
+  {
+    "question": "25a² − b² ifadesini çarpanlarına ayırınız.",
+    "correct_answer": "(5a - b)(5a + b)",
+    "incorrect_answers": [
+      "(25a - b)(a + b)",
+      "(5a - b)^2",
+      "(25a - b^2)"],
+    "topic": "Özdeşlikler"
+  },
+  {
+    "question": "1/9 − 1/16 işleminin sonucunu bulunuz.",
+    "correct_answer": "7/144",
+    "incorrect_answers": [
+      "5/144",
+      "1/7",
+      "25/144"],
+    "topic": "Rasyonel Sayılar"
+  },
+  {
+    "question": "4/5 + 6/25 işleminin sonucunu bulunuz.",
+    "correct_answer": "26/25",
+    "incorrect_answers": [
+      "10/25",
+      "24/25",
+      "30/25"],
+    "topic": "Rasyonel Sayılar"
+  },
+  {
+    "question": "Bir kartonun her köşesinden kenarı x olan kareler kesilerek kutu yapılacaktır. Kalan alanı ifade eden cebirsel çarpanı bulunuz.",
+    "correct_answer": "x^2 - 16x + 64",
+    "incorrect_answers": [
+      "x^2 + 16x + 64",
+      "16x - x^2",
+      "x^2 - 64"],
+    "topic": "Cebirsel İfadeler"
+  },
+{
+    "question": "Bir doğrusal fonksiyon grafiği artan doğrultuda ise eğimin işareti nasıldır?",
+    "correct_answer": "Pozitif",
+    "incorrect_answers": [
+      "Negatif",
+      "Sıfır",
+      "Tanımsız"],
+    "topic": "Doğrusal Fonksiyonlar"
+  },
+  {
+    "question": "Bir fonksiyonun tanım kümesi neyi ifade eder?",
+    "correct_answer": "Bağımsız değişkenin alabileceği değerler kümesini",
+    "incorrect_answers": [
+      "Fonksiyonun maksimum değerini",
+      "Bağımlı değişkenin alabileceği değerleri",
+      "Grafiğin eğimini"],
+    "topic": "Fonksiyon Kavramı"
+  },
+  {
+    "question": "Bir fonksiyonun görüntü kümesi neyi ifade eder?",
+    "correct_answer": "Bağımlı değişkenin aldığı değerler kümesini",
+    "incorrect_answers": [
+      "Tanım kümesini",
+      "Sabit değerleri",
+      "Eğim değerlerini"],
+    "topic": "Fonksiyon Kavramı"
+  },
+  {
+    "question": "Bir grafikte dikey doğru testi sağlanıyorsa bu grafik neyi temsil eder?",
+    "correct_answer": "Fonksiyonu",
+    "incorrect_answers": [
+      "Fonksiyon olmayan bağıntıyı",
+      "Parabol olmadığını",
+      "Doğrusal denklem olmadığını"],
+    "topic": "Fonksiyon Olma Şartı"
+  },
+  {
+    "question": "Bir fonksiyonun x eksenini kestiği noktalar neyi ifade eder?",
+    "correct_answer": "Fonksiyonun köklerini",
+    "incorrect_answers": [
+      "Tanım kümesini",
+      "Maksimum değerini",
+      "Eğimini"],
+    "topic": "Fonksiyonun Nitel Özellikleri"
+  },
+  {
+    "question": "Bir fonksiyon belirli bir aralıkta sürekli artıyorsa bu aralık için hangi ifade doğrudur?",
+    "correct_answer": "Fonksiyon artandır",
+    "incorrect_answers": [
+      "Fonksiyon azalandır",
+      "Fonksiyon sabittir",
+      "Fonksiyon tanımsızdır"],
+    "topic": "Artan Azalan Fonksiyonlar"
+  },
+{
+    "question": "f(x) = 2x + 3 fonksiyonu için f(4) değerini bulunuz.",
+    "correct_answer": "11",
+    "incorrect_answers": [
+      "8",
+      "10",
+      "14"],
+    "topic": "Fonksiyonda Değer Hesaplama"
+  },
+  {
+    "question": "f(x) = x² − 5 fonksiyonu için f(-2) değerini bulunuz.",
+    "correct_answer": "-1",
+    "incorrect_answers": [
+      "9",
+      "-9",
+      "1"],
+    "topic": "Fonksiyonda Değer Hesaplama"
+  },
+  {
+    "question": "f(x) = 3x − 7 ve f(x) = 8 ise x kaçtır?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "3",
+      "1",
+      "15"],
+    "topic": "Fonksiyon Denklem Çözme"
+  },
+  {
+    "question": "Bir doğrusal fonksiyon grafiği x eksenine paralel ise aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyon sabittir",
+    "incorrect_answers": [
+      "Fonksiyon artandır",
+      "Fonksiyon azalandır",
+      "Fonksiyon tanımsızdır"],
+    "topic": "Fonksiyon Grafikleri"
+  },
+  {
+    "question": "f(x) = ax + b fonksiyonunda a = 0 ise fonksiyonun türü nedir?",
+    "correct_answer": "Sabit fonksiyon",
+    "incorrect_answers": [
+      "Artan fonksiyon",
+      "Azalan fonksiyon",
+      "Parabolik fonksiyon"],
+    "topic": "Fonksiyon Türleri"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği sağa doğru yükseliyorsa aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyon artandır",
+    "incorrect_answers": [
+      "Fonksiyon azalandır",
+      "Fonksiyon sabittir",
+      "Fonksiyon tanımsızdır"],
+    "topic": "Grafik Yorumu"
+  },
+{
+    "question": "Bir fonksiyon grafiği belirli bir aralıkta aşağı doğru gidiyorsa bu aralık için hangi ifade doğrudur?",
+    "correct_answer": "Fonksiyon azalandır",
+    "incorrect_answers": [
+      "Fonksiyon artandır",
+      "Fonksiyon sabittir",
+      "Fonksiyon tanımsızdır"],
+    "topic": "Artan Azalan Fonksiyonlar"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği x eksenini iki farklı noktada kesiyorsa bu durum neyi gösterir?",
+    "correct_answer": "Fonksiyonun iki kökü vardır",
+    "incorrect_answers": [
+      "Fonksiyon sabittir",
+      "Fonksiyonun tanım kümesi yoktur",
+      "Fonksiyon artandır"],
+    "topic": "Fonksiyonun Nitel Özellikleri"
+  },
+  {
+    "question": "f(x) = x² fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyonun minimum değeri vardır",
+    "incorrect_answers": [
+      "Fonksiyon her yerde azalandır",
+      "Fonksiyon sabittir",
+      "Fonksiyonun maksimum değeri vardır"],
+    "topic": "Fonksiyon Özellikleri"
+  },
+  {
+    "question": "Bir fonksiyonun grafiğinde tepe noktası neyi ifade eder?",
+    "correct_answer": "Maksimum veya minimum noktayı",
+    "incorrect_answers": [
+      "Tanım kümesini",
+      "Kök sayısını",
+      "Eğim değerini"],
+    "topic": "Grafik Yorumu"
+  },
+  {
+    "question": "f(x) = -x² fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyonun maksimum değeri vardır",
+    "incorrect_answers": [
+      "Fonksiyon artandır",
+      "Fonksiyon sabittir",
+      "Fonksiyonun minimum değeri vardır"],
+    "topic": "Fonksiyon Özellikleri"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği hem artan hem azalan aralıklar içeriyorsa bu neyi gösterir?",
+    "correct_answer": "Fonksiyon tek yönlü değildir",
+    "incorrect_answers": [
+      "Fonksiyon sabittir",
+      "Fonksiyon doğrusal değildir",
+      "Fonksiyon tanımsızdır"],
+    "topic": "Fonksiyon Analizi"
+  },
+{
+    "question": "f(x) = x + 2 ve g(x) = 3x fonksiyonları için (f + g)(2) değerini bulunuz.",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "8",
+      "12",
+      "6"],
+    "topic": "Fonksiyon İşlemleri"
+  },
+  {
+    "question": "f(x) = x² fonksiyonu için f(3) − f(1) işleminin sonucu kaçtır?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "6",
+      "4",
+      "10"],
+    "topic": "Fonksiyonda Değer Hesaplama"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği orijinden geçiyorsa aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "f(0) = 0",
+    "incorrect_answers": [
+      "f(1) = 0",
+      "Fonksiyon sabittir",
+      "Fonksiyon artandır"],
+    "topic": "Grafik Yorumu"
+  },
+  {
+    "question": "f(x) = 2x − 4 fonksiyonunun kökünü bulunuz.",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "4",
+      "-2",
+      "0"],
+    "topic": "Fonksiyon Kök Bulma"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği y eksenine göre simetrik ise bu fonksiyon için hangisi doğrudur?",
+    "correct_answer": "Fonksiyon çifttir",
+    "incorrect_answers": [
+      "Fonksiyon tektir",
+      "Fonksiyon sabittir",
+      "Fonksiyon doğrusal değildir"],
+    "topic": "Fonksiyon Türleri"
+  },
+  {
+    "question": "f(x) = x³ fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyon tek fonksiyondur",
+    "incorrect_answers": [
+      "Fonksiyon çift fonksiyondur",
+      "Fonksiyon sabittir",
+      "Fonksiyon tanımsızdır"],
+    "topic": "Fonksiyon Türleri"
+  },
+{
+    "question": "f(x) = 5 fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyon sabittir",
+    "incorrect_answers": [
+      "Fonksiyon artandır",
+      "Fonksiyon azalandır",
+      "Fonksiyon ikinci derecedendir"],
+    "topic": "Fonksiyon Türleri"
+  },
+  {
+    "question": "f(x) = -2x fonksiyonunun eğimi nedir?",
+    "correct_answer": "-2",
+    "incorrect_answers": [
+      "2",
+      "0",
+      "-1"],
+    "topic": "Doğrusal Fonksiyonlar"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği hiçbir noktada x eksenini kesmiyorsa ne söylenebilir?",
+    "correct_answer": "Fonksiyonun gerçek kökü yoktur",
+    "incorrect_answers": [
+      "Fonksiyon sabittir",
+      "Fonksiyon tanımsızdır",
+      "Fonksiyon artandır"],
+    "topic": "Fonksiyon Kök Analizi"
+  },
+  {
+    "question": "f(x) = x² + 4 fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyonun gerçek kökü yoktur",
+    "incorrect_answers": [
+      "Fonksiyonun iki kökü vardır",
+      "Fonksiyon sabittir",
+      "Fonksiyon tek fonksiyondur"],
+    "topic": "Fonksiyon Analizi"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği y eksenini kestiği nokta neyi gösterir?",
+    "correct_answer": "f(0) değerini",
+    "incorrect_answers": [
+      "Fonksiyonun kökünü",
+      "Tanım kümesini",
+      "Maksimum değerini"],
+    "topic": "Grafik Yorumu"
+  },
+  {
+    "question": "f(x) = x − 3 fonksiyonunun y eksenini kestiği noktadaki değer kaçtır?",
+    "correct_answer": "-3",
+    "incorrect_answers": [
+      "3",
+      "0",
+      "-1"],
+    "topic": "Fonksiyonda Değer Hesaplama"
+  },
+{
+    "question": "Bir telefon şirketi aylık sabit 50 TL ücret ve konuşulan dakika başına 0.5 TL almaktadır. x dakika konuşan bir kişinin ödeyeceği ücreti veren fonksiyon nedir?",
+    "correct_answer": "f(x) = 0.5x + 50",
+    "incorrect_answers": [
+      "f(x) = 50x + 0.5",
+      "f(x) = 0.5(x + 50)",
+      "f(x) = x + 50"],
+    "topic": "Fonksiyon Modelleme"
+  },
+  {
+    "question": "Bir aracın aldığı yol y = 60x fonksiyonu ile modellenmektedir. x saat sonra alınan yolun 300 km olması için geçen süre kaç saattir?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "6",
+      "3"],
+    "topic": "Fonksiyon Problemleri"
+  },
+  {
+    "question": "Bir parabolün grafiği x eksenini iki noktada kesiyorsa aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Denklemin iki farklı gerçek kökü vardır",
+    "incorrect_answers": [
+      "Kök yoktur",
+      "Tek kökü vardır",
+      "Fonksiyon sabittir"],
+    "topic": "İkinci Dereceden Fonksiyonlar"
+  },
+  {
+    "question": "f(x) = x² − 4x fonksiyonunun minimum değerini bulunuz.",
+    "correct_answer": "-4",
+    "incorrect_answers": [
+      "0",
+      "-2",
+      "4"],
+    "topic": "Parabol Analizi"
+  },
+  {
+    "question": "Bir şirketin kârı K(x) = -x² + 6x fonksiyonu ile modelleniyor. Maksimum kâr hangi x değerinde elde edilir?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "6",
+      "2",
+      "1"],
+    "topic": "Optimizasyon"
+  },
+  {
+    "question": "Bir fonksiyonun grafiği hem x hem y eksenine göre simetrik ise aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Fonksiyon sabittir",
+    "incorrect_answers": [
+      "Fonksiyon tektir",
+      "Fonksiyon çift ama sabit değildir",
+      "Fonksiyon doğrusal olur"],
+    "topic": "Fonksiyon Simetrisi"
+  },
 ]
 
