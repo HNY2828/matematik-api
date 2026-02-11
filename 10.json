@@ -636,9 +636,9 @@
  "image": "https://raw.githubusercontent.com/HNY2828/matematik-api/refs/heads/main/graphs/increasing_01.png",
   "correct_answer": "(-∞, ∞)",
   "incorrect_answers": [
-    "(0, ∞)",
-    "(-∞, 0)",
-    "(1, ∞)"
+    "(0,inf)",
+    "(-inf, 0)",
+    "(1, inf)"
   ],
   "topic": "Fonksiyon Davranışı"
 },
