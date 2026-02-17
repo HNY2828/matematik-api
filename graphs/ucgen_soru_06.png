@@ -1,0 +1,60 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.patches import Arc, Rectangle
+
+# Noktalar
+B = np.array([0, 0])
+A = np.array([0, 6])
+C = np.array([4, 0])
+D = np.array([8, 0])
+E = np.array([3.2, 3.2])
+
+fig, ax = plt.subplots(figsize=(8,6))
+
+# Taban BD
+ax.plot([B[0], D[0]], [0, 0], linewidth=3)
+
+# AB dik
+ax.plot([A[0], B[0]], [A[1], B[1]], linewidth=3)
+
+# AC
+ax.plot([A[0], C[0]], [A[1], C[1]], linewidth=3)
+
+# ED
+ax.plot([E[0], D[0]], [E[1], D[1]], linewidth=3)
+
+# EC
+ax.plot([E[0], C[0]], [E[1], C[1]], linewidth=3)
+
+# Nokta yazıları
+ax.text(A[0], A[1]+0.3, "A", fontsize=14, ha='center')
+ax.text(B[0]-0.3, B[1]-0.4, "B", fontsize=14)
+ax.text(C[0], C[1]-0.4, "C", fontsize=14)
+ax.text(D[0], D[1]-0.4, "D", fontsize=14)
+ax.text(E[0], E[1]+0.3, "E", fontsize=14)
+
+# Dik açı işareti
+square = Rectangle((B[0], B[1]), 0.5, 0.5, fill=False)
+ax.add_patch(square)
+
+# A açısı (x)
+arc_A = Arc(A, 1.5, 1.5, angle=-10, theta1=270, theta2=320)
+ax.add_patch(arc_A)
+ax.text(A[0]+0.4, A[1]-1.2, "x", fontsize=14)
+
+# 18° (CED)
+arc_E = Arc(E, 1.2, 1.2, angle=-17, theta1=300, theta2=340)
+ax.add_patch(arc_E)
+ax.text(E[0]+0.6, E[1]-0.3, "18°", fontsize=13)
+
+# 36° (EDB)
+arc_D = Arc(D, 1.4, 1.4, angle=0, theta1=140, theta2=180)
+ax.add_patch(arc_D)
+ax.text(D[0]-1.2, D[1]+0.2, "36°", fontsize=13)
+
+# Görünüm
+ax.set_aspect('equal')
+ax.axis('off')
+
+plt.savefig("ucgen_soru_06.png", dpi=300, bbox_inches='tight')
+plt.show()

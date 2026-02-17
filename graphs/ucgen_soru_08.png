@@ -1,0 +1,47 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.patches import Arc
+
+# Noktalar
+A = np.array([4, 7])
+B = np.array([0, 0])
+C = np.array([8, 0])
+D = np.array([4, 2.2])
+
+fig, ax = plt.subplots(figsize=(7,6))
+
+# Büyük üçgen
+ax.plot([A[0], B[0]], [A[1], B[1]], linewidth=3)
+ax.plot([A[0], C[0]], [A[1], C[1]], linewidth=3)
+
+# İç BD ve CD
+ax.plot([B[0], D[0]], [B[1], D[1]], linewidth=3)
+ax.plot([C[0], D[0]], [C[1], D[1]], linewidth=3)
+
+# Nokta isimleri
+ax.text(A[0], A[1]+0.3, "A", fontsize=14, ha='center')
+ax.text(B[0]-0.3, B[1]-0.4, "B", fontsize=14)
+ax.text(C[0], C[1]-0.4, "C", fontsize=14)
+ax.text(D[0], D[1]+0.3, "D", fontsize=14)
+
+# B açısı 40°
+arc_B = Arc(B, 1.5, 1.5, angle=17, theta1=10, theta2=50)
+ax.add_patch(arc_B)
+ax.text(B[0]+0.9, B[1]+0.8, "40°", fontsize=13)
+
+# C açısı 30°
+arc_C = Arc(C, 1.5, 1.5, angle=-17, theta1=130, theta2=170)
+ax.add_patch(arc_C)
+ax.text(C[0]-1.5, C[1]+0.9, "30°", fontsize=13)
+
+# D açısı (BDC)
+arc_D = Arc(D, 1.8, 1.8, angle=11, theta1=200, theta2=320)
+ax.add_patch(arc_D)
+ax.text(D[0], D[1]-1, "?", fontsize=14, ha='center')
+
+# Görünüm
+ax.set_aspect('equal')
+ax.axis('off')
+
+plt.savefig("ucgen_soru_08.png", dpi=300, bbox_inches='tight')
+plt.show()

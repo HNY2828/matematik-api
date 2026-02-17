@@ -1,0 +1,51 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.patches import Arc
+
+# Noktalar
+B = np.array([0, 0])
+C = np.array([10, 0])
+D = np.array([6, 0])
+A = np.array([3.5, 6])
+
+fig, ax = plt.subplots(figsize=(7,6))
+
+# Üçgen ABC
+ax.plot([A[0], B[0]], [A[1], B[1]], linewidth=3)
+ax.plot([A[0], C[0]], [A[1], C[1]], linewidth=3)
+ax.plot([B[0], C[0]], [B[1], C[1]], linewidth=3)
+
+# AD çizgisi
+ax.plot([A[0], D[0]], [A[1], D[1]], linewidth=3)
+
+# Eşitlik işaretleri (AB = AD = DC)
+mid_AB = (A + B) / 2
+mid_AD = (A + D) / 2
+mid_DC = (D + C) / 2
+
+ax.text(mid_AB[0]-0.2, mid_AB[1], "//", fontsize=16, rotation=60)
+ax.text(mid_AD[0]-0.2, mid_AD[1], "//", fontsize=16, rotation=-50)
+ax.text(mid_DC[0], mid_DC[1]-0.4, "//", fontsize=16)
+
+# Nokta isimleri
+ax.text(A[0], A[1]+0.3, "A", fontsize=14, ha='center')
+ax.text(B[0]-0.3, B[1]-0.4, "B", fontsize=14)
+ax.text(D[0], D[1]-0.4, "D", fontsize=14)
+ax.text(C[0], C[1]-0.4, "C", fontsize=14)
+
+# A açısı (x)
+arc_A = Arc(A, 1.6, 1.6, angle=0, theta1=230, theta2=300)
+ax.add_patch(arc_A)
+ax.text(A[0]-0.3, A[1]-1.2, "x", fontsize=14)
+
+# C açısı 32°
+arc_C = Arc(C, 1.6, 1.6, angle=0, theta1=140, theta2=180)
+ax.add_patch(arc_C)
+ax.text(C[0]-1.2, C[1]+0.7, "32°", fontsize=13)
+
+# Görünüm
+ax.set_aspect('equal')
+ax.axis('off')
+
+plt.savefig("ucgen_soru_10.png", dpi=300, bbox_inches='tight')
+plt.show()

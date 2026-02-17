@@ -1,0 +1,56 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.patches import Arc
+
+# Noktalar (görsel yerleşim için ayarlı)
+B = np.array([0, 0])
+C = np.array([8, 0])
+A = np.array([6, 6])
+
+# D ve E noktaları
+D = np.array([2.5, 2.5])
+E = np.array([5, 0])
+
+fig, ax = plt.subplots(figsize=(7,6))
+
+# Ana üçgen
+ax.plot([A[0], B[0]], [A[1], B[1]], linewidth=3)
+ax.plot([A[0], C[0]], [A[1], C[1]], linewidth=3)
+ax.plot([B[0], C[0]], [B[1], C[1]], linewidth=3)
+
+# İç çizgiler
+ax.plot([D[0], E[0]], [D[1], E[1]], linewidth=2)
+
+# Nokta isimleri
+ax.text(A[0], A[1]+0.3, "A", fontsize=15, ha='center')
+ax.text(B[0]-0.2, B[1]-0.3, "B", fontsize=15)
+ax.text(C[0]+0.1, C[1]-0.3, "C", fontsize=15)
+ax.text(D[0]-0.2, D[1]+0.2, "D", fontsize=14)
+ax.text(E[0], E[1]-0.4, "E", fontsize=14)
+
+# A açısı (70°)
+arc_A = Arc(A, 1.2, 1.2, angle=0, theta1=210, theta2=260)
+ax.add_patch(arc_A)
+ax.text(A[0]-0.8, A[1]-0.5, "70°", fontsize=13)
+
+# D açısı (100°)
+arc_D = Arc(D, 1.0, 1.0, angle=0, theta1=220, theta2=330)
+ax.add_patch(arc_D)
+ax.text(D[0]-0.2, D[1]-0.7, "100°", fontsize=13)
+
+# E açısı (35°)
+arc_E = Arc(E, 1.0, 1.0, angle=0, theta1=0, theta2=35)
+ax.add_patch(arc_E)
+ax.text(E[0]-0.2, E[1]+0.3, "35°", fontsize=13)
+
+# C açısı (x)
+arc_C = Arc(C, 1.0, 1.0, angle=0, theta1=120, theta2=180)
+ax.add_patch(arc_C)
+ax.text(C[0]-0.8, C[1]+0.4, "x", fontsize=14)
+
+# Görünüm
+ax.set_aspect('equal')
+ax.axis('off')
+
+plt.savefig("ucgen_soru_03.png", dpi=300, bbox_inches='tight')
+plt.show()

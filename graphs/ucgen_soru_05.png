@@ -1,0 +1,53 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.patches import Arc, FancyArrowPatch
+
+# Noktalar (D-B-C-E doğrusal)
+D = np.array([-2, 0])
+B = np.array([0, 0])
+C = np.array([6, 0])
+E = np.array([8, 0])
+
+A = np.array([3, 5])
+
+fig, ax = plt.subplots(figsize=(8,6))
+
+# Taban doğru
+ax.plot([D[0], E[0]], [0, 0], linewidth=3)
+
+# Oklar
+ax.add_patch(FancyArrowPatch((D[0],0),(D[0]-0.8,0),arrowstyle='-|>',mutation_scale=15))
+ax.add_patch(FancyArrowPatch((E[0],0),(E[0]+0.8,0),arrowstyle='-|>',mutation_scale=15))
+
+# Üçgen
+ax.plot([A[0], B[0]], [A[1], B[1]], linewidth=3)
+ax.plot([A[0], C[0]], [A[1], C[1]], linewidth=3)
+
+# Nokta etiketleri
+ax.text(A[0], A[1]+0.3, "A", fontsize=14, ha='center')
+ax.text(B[0], B[1]-0.4, "B", fontsize=14)
+ax.text(C[0], C[1]-0.4, "C", fontsize=14)
+ax.text(D[0]-0.2, D[1]-0.4, "D", fontsize=14)
+ax.text(E[0]+0.1, E[1]-0.4, "E", fontsize=14)
+
+# A açısı 50°
+arc_A = Arc(A, 1.3, 1.3, angle=0, theta1=235, theta2=305)
+ax.add_patch(arc_A)
+ax.text(A[0], A[1]-1.1, "50°", fontsize=13, ha='center')
+
+# B dış açısı 3x+40°
+arc_B = Arc(B, 1.8, 1.8, angle=-120, theta1=180, theta2=310)
+ax.add_patch(arc_B)
+ax.text(B[0]-1.5, B[1]+1.2, "3x + 40°", fontsize=13)
+
+# C dış açısı 3x+10°
+arc_C = Arc(C, 1.6, 1.6, angle=0, theta1=0, theta2=120)
+ax.add_patch(arc_C)
+ax.text(C[0]+0.6, C[1]+0.8, "3x + 10°", fontsize=13)
+
+# Görünüm ayarı
+ax.set_aspect('equal')
+ax.axis('off')
+
+plt.savefig("ucgen_soru_05.png", dpi=300, bbox_inches='tight')
+plt.show()
