@@ -309,70 +309,70 @@
   },
   {
     "question": "ABC üçgeninde m(BAC)=70°, m(BDE)=100°, m(DEB)=35° olduğuna göre m(ACB)=x kaç derecedir?",
-    "correct_answer": "55",
+    "correct_answer": "45",
     "incorrect_answers": ["45", "50", "60"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_03.png"
   },
   {
     "question": "ABC üçgeninde EF // BD, m(EBD)=130°, m(DAC)=120° olduğuna göre m(ACF)=x kaç derecedir?",
-    "correct_answer": "50",
+    "correct_answer": "110",
     "incorrect_answers": ["40", "60", "70"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_04.png"
   },
   {
     "question": "ABC üçgeninde D, B, C ve E noktaları doğrusaldır. m(ABD)=3x+40°, m(ACE)=3x+10°, m(BAC)=50° olduğuna göre m(ABE) kaç derecedir?",
-    "correct_answer": "100",
+    "correct_answer": "130",
     "incorrect_answers": ["90", "110", "120"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_05.png"
   },
   {
     "question": "ABC üçgeninde AB ⟂ BD, m(CED)=18°, m(EDB)=36° olduğuna göre m(BAC)=x kaç derecedir?",
-    "correct_answer": "54",
+    "correct_answer": "36",
     "incorrect_answers": ["45", "60", "72"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_06.png"
   },
   {
     "question": "ABC üçgeninde m(ACD)=2x+10°, m(ABD)=2x, m(BAC)=70°, m(BDC)=140° olduğuna göre x kaçtır?",
-    "correct_answer": "30",
+    "correct_answer": "15",
     "incorrect_answers": ["20", "25", "35"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_07.png"
   },
   {
     "question": "ABC üçgeninde m(BDC)=2m(BAC), m(DCA)=30°, m(ABD)=40° olduğuna göre m(BDC) kaç derecedir?",
-    "correct_answer": "80",
+    "correct_answer": "70",
     "incorrect_answers": ["60", "70", "90"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_08.png"
   },
   {
     "question": "ABC üçgeninde AB=AC, m(ACD)=130° ve B, C, D doğrusal olduğuna göre m(BAC)=x kaç derecedir?",
-    "correct_answer": "50",
+    "correct_answer": "80",
     "incorrect_answers": ["40", "60", "65"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_09.png"
   },
   {
     "question": "ABC üçgeninde AB=AD=DC, m(ACB)=32° olduğuna göre m(BAD)=x kaç derecedir?",
-    "correct_answer": "16",
+    "correct_answer": "52",
     "incorrect_answers": ["20", "24", "30"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_10.png"
   },
   {
     "question": "ABC üçgeninde BE açıortay, AE=ED, m(ABC)=96°, m(ACB)=27° olduğuna göre m(DAC)=x kaç derecedir?",
-    "correct_answer": "21",
+    "correct_answer": "15",
     "incorrect_answers": ["18", "24", "30"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_11.png"
   },
   {
     "question": "ABC üçgeninde DH ⟂ BC, BH=HC, AB=DC, m(ABD)=20° olduğuna göre m(DBC)=x kaç derecedir?",
-    "correct_answer": "20",
+    "correct_answer": "40",
     "incorrect_answers": ["15", "25", "30"],
     "topic": "Üçgenler",
     "image":"ucgen_soru_12.png"
